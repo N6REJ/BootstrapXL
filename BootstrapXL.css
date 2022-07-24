@@ -14,10 +14,10 @@
 }
 
 
-.visible-xl-block,
-.visible-xl-inline,
-.visible-xl-inline-block,
-.visible-xl{
+.hidden-xl-block,
+.hidden-xl-inline,
+.hidden-xl-inline-block,
+.hidden-xl{
     display: none !important;
 }
 
